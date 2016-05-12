@@ -35,6 +35,13 @@
     [str addAttribute:NSForegroundColorAttributeName value:[UIColor redColor] range:NSMakeRange(0, _testTF.placeholder.length)];
     [str addAttribute:NSFontAttributeName value:[UIFont systemFontOfSize:40] range:NSMakeRange(0, _testTF.placeholder.length)];
     _testTF.attributedPlaceholder = str;
+    
+    
+    
+    
+    
+    
+    
 //    self.host = [[Person alloc] init];
 //    self.host.dog = [[Animal alloc] init];
 //    [self.host ssss];
